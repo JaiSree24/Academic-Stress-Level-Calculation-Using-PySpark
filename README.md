@@ -27,8 +27,8 @@ These models were implemented using **PySpark ML (`pyspark.ml`)**.
 - Apache Spark (PySpark)
 - PySpark ML (`pyspark.ml`)
 - Pandas
-- NumPy
 - Matplotlib
+- Seaborn
 - Jupyter Notebook
 
 ## Project Workflow
